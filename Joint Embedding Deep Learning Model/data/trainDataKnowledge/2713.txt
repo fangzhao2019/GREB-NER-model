@@ -1,0 +1,225 @@
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+博越,0.13311887206806094	吉利汽车,0.016666656411840806
+博越,0.13311887206806094	吉利汽车,0.016666656411840806
+博越,0.13311887206806094	博悦,0.12071729282851036
+博越,0.13311887206806094	博悦,0.12071729282851036
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+DS 4S,0.12319548732515485
+DS 4S,0.12319548732515485
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+博越,0.13311887206806094	吉利汽车,0.016666656411840806
+博越,0.13311887206806094	吉利汽车,0.016666656411840806
+博越,0.13311887206806094	博悦,0.12071729282851036
+博越,0.13311887206806094	博悦,0.12071729282851036
+宋Pro,0.12248444934598593	秦Pro,0.11833389605595834	长安欧尚科赛Pro,0.11799595638297761
+宋Pro,0.12248444934598593	秦Pro,0.11833389605595834	长安欧尚科赛Pro,0.11799595638297761
+宋Pro,0.12248444934598593	秦Pro,0.11833389605595834	长安欧尚科赛Pro,0.11799595638297761
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+博越,0.13311887206806094	博悦,0.12071729282851036
+博越,0.13311887206806094	博悦,0.12071729282851036
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+博越,0.13311887206806094	吉利汽车,0.016666656411840806
+博越,0.13311887206806094	吉利汽车,0.016666656411840806
+博越,0.13311887206806094	博悦,0.12071729282851036
+博越,0.13311887206806094	博悦,0.12071729282851036
+宋Pro,0.12248444934598593	秦Pro,0.11833389605595834	长安欧尚科赛Pro,0.11799595638297761
+宋Pro,0.12248444934598593	秦Pro,0.11833389605595834	长安欧尚科赛Pro,0.11799595638297761
+宋Pro,0.12248444934598593	秦Pro,0.11833389605595834	长安欧尚科赛Pro,0.11799595638297761
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+元,0.11891437932608077
+Null
+Null
+博越,0.13311887206806094	博悦,0.12071729282851036
+博越,0.13311887206806094	博悦,0.12071729282851036
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+远景SUV,0.12857224974935913
+远景SUV,0.12857224974935913
+远景SUV,0.12857224974935913
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+吉利汽车,0.016666656411840806
+吉利汽车,0.016666656411840806
+Null
+Null
+Null
+Null
+Null
+Null
+Null
+Null
